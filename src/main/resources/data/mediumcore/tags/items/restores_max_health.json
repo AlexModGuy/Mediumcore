@@ -1,0 +1,7 @@
+{
+  "__comment": "all the items that, when consumed, restore the max health in mediumcore.",
+  "values": [
+    "minecraft:golden_apple",
+    "minecraft:enchanted_golden_apple"
+  ]
+}

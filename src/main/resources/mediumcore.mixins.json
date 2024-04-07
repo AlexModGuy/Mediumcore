@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "com.github.alexmodguy.mediumcore.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "target": "@env(DEFAULT)",
+  "refmap": "retrodamageindicators.refmap.json",
+  "mixins": [
+    "DedicatedServerPropertiesMixin"
+  ],
+  "client": [
+    "client.CreateWorldScreenMixin",
+    "client.SelectedGameModeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
