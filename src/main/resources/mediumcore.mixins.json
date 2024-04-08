@@ -3,7 +3,7 @@
   "package": "com.github.alexmodguy.mediumcore.mixins",
   "compatibilityLevel": "JAVA_17",
   "target": "@env(DEFAULT)",
-  "refmap": "retrodamageindicators.refmap.json",
+  "refmap": "mediumcore.refmap.json",
   "mixins": [
     "DedicatedServerPropertiesMixin"
   ],
